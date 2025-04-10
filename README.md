@@ -1,6 +1,8 @@
 # vue3-project-template
 
-This template should help get you started developing with Vue 3 in Vite.
+这是一个基于 Vue 3 的项目模板，使用了Pineia 作为状态管理库，并且使用了 Vite 作为构建工具。
+
+帮助快速搭建项目
 
 ## Recommended IDE Setup
 
